@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/josepha30379228" target="blank"><img src="https://img.shields.io/twitter/follow/josepha30379228?logo=twitter&style=for-the-badge" alt="josepha30379228" /></a> </p>
 
-- 🔭 I’m currently working on [TowerDefence](https://github.com/JosephAbbey/TowerDefence)
+- 🔭 I’m currently working on [scratch_vhdl](https://github.com/house-of-abbey/scratch_vhdl)
 
-- 🌱 I’m currently learning **Klingon**
+- 🌱 I’m currently learning VHDL
 
 - 👨‍💻 All of my projects are available at [https://joseph.abbey1.org.uk](https://joseph.abbey1.org.uk)
 
