@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/josepha30379228" target="blank"><img src="https://img.shields.io/twitter/follow/josepha30379228?logo=twitter&style=for-the-badge" alt="josepha30379228" /></a> </p>
 
-- 🔭 I’m currently working on [scratch_vhdl](https://github.com/house-of-abbey/scratch_vhdl)
+<!-- - 🔭 I’m currently working on [scratch_vhdl](https://github.com/house-of-abbey/scratch_vhdl) -->
 
-- 🌱 I’m currently learning VHDL
+- 🌱 I’m currently learning Lit.js
 
-- 👨‍💻 All of my projects are available at [https://joseph.abbey1.org.uk](https://joseph.abbey1.org.uk)
+- 👨‍💻 All of my projects are available at [josephabbey.dev](https://www.josephabbey.dev)
 
-- 📝 I regularly write articles on [https://blog.abbey1.org.uk](https://blog.abbey1.org.uk)
-
-- 📄 Know about my experiences [https://joseph.abbey1.org.uk](https://joseph.abbey1.org.uk)
+- 📝 I regularly write articles on [blog.abbey1.org.uk](https://blog.abbey1.org.uk)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
